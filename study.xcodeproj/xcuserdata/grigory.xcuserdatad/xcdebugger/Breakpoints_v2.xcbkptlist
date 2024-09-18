@@ -30,8 +30,8 @@
             filePath = "study/TestView3.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "620"
-            endingLineNumber = "620"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
             landmarkName = "menu(_:update:at:shouldCancel:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -46,8 +46,8 @@
             filePath = "study/TestView3.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "621"
-            endingLineNumber = "621"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "menu(_:update:at:shouldCancel:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -62,8 +62,8 @@
             filePath = "study/TestView3.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "628"
-            endingLineNumber = "628"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
             landmarkName = "numberOfItems(in:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -78,68 +78,10 @@
             filePath = "study/TestView3.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "640"
-            endingLineNumber = "640"
-            landmarkName = "TestMenu"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  uuid = "A0CEF5C1-B6AB-40DB-BBF8-4C00E273DD78 - b5de6903bbc63f9b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "study.MenuButton.__allocating_init(frame: __C.CGRect) -&gt; study.MenuButton"
-                  moduleName = "study.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/grigory/SwiftUIStudy/study/study/TestView3.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0">
-               </Location>
-               <Location
-                  uuid = "A0CEF5C1-B6AB-40DB-BBF8-4C00E273DD78 - 88f5445043cb9653"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "study.MenuButton.init(frame: __C.CGRect) -&gt; study.MenuButton"
-                  moduleName = "study.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/grigory/SwiftUIStudy/study/study/TestView3.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "640"
-                  endingLineNumber = "640">
-               </Location>
-               <Location
-                  uuid = "A0CEF5C1-B6AB-40DB-BBF8-4C00E273DD78 - d791c3e3533e74e8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "study.MenuButton.__deallocating_deinit"
-                  moduleName = "study.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/grigory/SwiftUIStudy/study/study/TestView3.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0">
-               </Location>
-               <Location
-                  uuid = "A0CEF5C1-B6AB-40DB-BBF8-4C00E273DD78 - 416b76405f6edf1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "study.TestMenu.cancelTracking() -&gt; ()"
-                  moduleName = "study.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/grigory/SwiftUIStudy/study/study/TestView3.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "641"
-                  endingLineNumber = "641">
-               </Location>
-            </Locations>
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "cancelTracking()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -152,40 +94,10 @@
             filePath = "study/TestView3.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "636"
-            endingLineNumber = "636"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "cancelTrackingWithoutAnimation()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "906C3884-A468-413B-AF8F-61E574EF3A76 - 416b76405f6ec75"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "study.TestMenu.cancelTracking() -&gt; ()"
-                  moduleName = "study.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/grigory/SwiftUIStudy/study/study/TestView3.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "637"
-                  endingLineNumber = "637">
-               </Location>
-               <Location
-                  uuid = "906C3884-A468-413B-AF8F-61E574EF3A76 - ff7be7dd5bb08079"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "study.TestMenu.cancelTrackingWithoutAnimation() -&gt; ()"
-                  moduleName = "study.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/grigory/SwiftUIStudy/study/study/TestView3.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "637"
-                  endingLineNumber = "637">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
